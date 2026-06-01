@@ -8,33 +8,19 @@ Phishing Simulator, kuruluşların ve bireylerin kimlik avı saldırılarını p
 
 ## Özellikler
 
-- 🎯 Gerçekçi kimlik avı e-posta simülasyonları
-- 📊 Kullanıcı etkileşimi izleme ve analitikleri
-- 🔒 Güvenli test ortamı
-- 📈 Eğitim raporlaması
-- 🎓 Özelleştirilebilir eğitim materyalleri ve farkındalık içeriği
-- 🔗 Kişiselleştirilebilir kimlik avı senaryoları
-
-## Teknoloji Yığını
-
-- **Ön Uç**: HTML (87.8%)
-- **Arka Uç**: Python (12.2%)
-
-## Proje Yapısı
-
-```
-phishing-simulator/
-├── HTML şablonları/         # Ön uç kimlik avı simülasyon sayfaları
-├── Python betikleri/        # Arka uç mantığı ve araçları
-└── README.md               # Bu dosya
-```
+- Gerçekçi kimlik avı e-posta simülasyonları
+- Kullanıcı etkileşimi izleme ve analitikleri
+- Güvenli test ortamı
+- Eğitim raporlaması
+- Özelleştirilebilir eğitim materyalleri ve farkındalık içeriği
+- Kişiselleştirilebilir kimlik avı senaryoları
 
 ## Kurulum
 
 ### Ön Koşullar
 
 - Python 3.7+
-- JavaScript etkinleştirilmiş web tarayıcı
+- HTML etkinleştirilmiş web tarayıcı
 - Git
 
 ### Kurulum Adımları
@@ -73,7 +59,7 @@ Bu simülatör şu amaçlar için kullanılır:
 
 ## Önemli Sorumluluk Reddi
 
-⚠️ **Yasal Uyarı**: Bu araç yalnızca şu durumlarda kullanılmalıdır:
+**Yasal Uyarı**: Bu araç yalnızca şu durumlarda kullanılmalıdır:
 - Sistem sahiplerinin açık yetkilendirmesi ile
 - Kontrollü, yetkili ortamlarda
 - Meşru güvenlik eğitimi ve araştırma amaçları için
@@ -97,20 +83,4 @@ Katkılar hoş karşılanmaktadır! Lütfen şunları yapın:
 - Kimlik bilgileri ve hassas verileri güvende tutun
 - Sorumlu açıklama uygulamalarını takip edin
 
-## Lisans
 
-Ayrıntılar için lütfen LICENSE dosyasına bakın (varsa).
-
-## Destek
-
-Sorunlar, sorular veya öneriler için lütfen GitHub deposunda bir konu açın.
-
-## Yazar
-
-**xGhostxs**
-
----
-
-**Son Güncelleme**: Haziran 2026
-
-*Unutmayın: Büyük güç büyük sorumluluk getirir. Bu aracı etik ve yasal bir şekilde kullanın.*

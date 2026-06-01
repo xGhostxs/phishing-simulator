@@ -66,11 +66,9 @@ def clear_logs():
 
 if __name__ == '__main__':
     print("=" * 50)
-    print("⚠️  PHISHING SIMULATOR - SADECE EĞİTİM AMAÇLI")
+    print("PHISHING SIMULATOR")
     print("=" * 50)
     print("\nSahte Login: http://localhost:5000")
     print("Admin Panel: http://localhost:5000/admin")
-    print("\nDİKKAT: Bu araç sadece kendi sistemlerinizde")
-    print("güvenlik testi için kullanılmalıdır!\n")
     
     app.run(debug=True, host='0.0.0.0', port=5000)
